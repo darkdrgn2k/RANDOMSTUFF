@@ -1,4 +1,4 @@
-# 12/20/2018 - Emoji Fix for Lumio
+# 12/20/2018 - Emoji Fix for Loomio
  - In docker container loomio-app
    - Create folder /loomio/public/img/emojis
    - Install zip `apk install zip`
